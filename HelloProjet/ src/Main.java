@@ -9,7 +9,6 @@ public class Main {
         for (int i = 0; i < 10; i++) {
             System.out.println("隔壁老李");
         }
+        System.out.println("嘿嘿吗");
     }
-    
-    
 }
