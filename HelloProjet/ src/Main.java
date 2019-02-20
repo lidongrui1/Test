@@ -8,8 +8,8 @@ public class Main {
         System.out.println("222HelloWorld!");
         System.out.println("点草小河虾");
         for (int i = 0; i < 10; i++) {
-            System.out.println("隔壁老李");
+            System.out.println("点草杨昆");
         }
-        System.out.println("嘿嘿吗");
+        System.out.println("单槽杨昆");
     }
 }
