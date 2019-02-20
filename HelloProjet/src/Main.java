@@ -6,5 +6,8 @@ public class Main {
     public void testHelloWrold() {
         System.out.println("hehehi");
         System.out.println("HelloWorld!");
+        for (int i = 0; i < 10; i++) {
+            System.out.println("隔壁老李");
+        }
     }
 }
